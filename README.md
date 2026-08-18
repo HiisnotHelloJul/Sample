@@ -26,4 +26,5 @@ y2: 8
 The distance between the two points is: 7.07
 
 **Author:** Juliana Zia B. Santero
+
 **Section:** 8 - Narra
