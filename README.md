@@ -7,15 +7,22 @@ This program allows you to enter the values of the given variables to be calcula
 
 ### Input Needed:
 x1 = int(input ("x1: "))
+
 x2 = int(input ("x2: "))
+
 y1 = int(input ("y1: "))
+
 y2 = int(input ("y2: "))
 
 ### Sample Output:
 x1: 2
+
 x2: 7
+
 y1: 3
+
 y2: 8
+
 The distance between the two points is: 7.07
 
 **Author:** Juliana Zia B. Santero
